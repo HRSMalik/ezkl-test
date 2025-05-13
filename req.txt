@@ -1,0 +1,11 @@
+ezkl 
+hummingbird-ml
+ezkl-gpu 
+onnx 
+sk2torch 
+hummingbird-ml 
+torch 
+torchvision 
+torchaudio 
+numpy 
+scikit-learn
